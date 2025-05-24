@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/1973676660_3375351580_223132457.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_495718536_3605406136.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_4023558076_3251032846.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_933513750_4093869037.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_1398728113_2070878162.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_2114419623_390572716.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_933513750_3817361957.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_1398728113_2174485069.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_518716940_2396234737.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_256115557_3413157704.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateDropMultiple/3769907768_3316896311_3115238465.mp4'

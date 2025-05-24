@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/1973676660_2063934654_223132457.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_495718536_1340161036.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_3394000973_4093562359.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_3394000973_3126450131.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_1794772391_3219256322.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_4048920613_1141813743.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_495718536_1607666104.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_403191873_1976285687.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateTake/3769907768_495718536_2250685244.mp4'

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateSelectSingle/1973676660_3210367821_223132457.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateSelectSingle/3769907768_495718536_2740064918.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateSelectSingle/3769907768_1004383481_3660589939.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateSelectSingle/3769907768_933513750_1973793581.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateSelectSingle/3769907768_1398728113_1681155119.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateSelectSingle/3769907768_646315351_1159871041.mp4'
+file 'file:/Users/andrewtaylor/Desktop/Manim/SoME/Data8Project/media/videos/manimtables/1080p60/partial_movie_files/AnimateSelectSingle/3769907768_3492912462_579128571.mp4'
