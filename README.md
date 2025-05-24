@@ -45,3 +45,4 @@ For the last two semesters I have been an **Undergraduate Student Instructor for
 ## 🔧 To be Implemented
 - All remaining table fucntions from the `datascience` library
 - Support for DataFrame animations using the `pandas` library
+- Animation Demo
