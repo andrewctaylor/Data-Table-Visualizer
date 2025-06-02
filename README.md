@@ -32,7 +32,6 @@ For the last two semesters I have been an **Undergraduate Student Instructor for
 - `.drop()`: Drops specific column(s) to create a new table.
 - `.select()`: Moves specific column(s) into a new table.
 - `.take()`: Transfers selected rows by index into a new table.
--  Animations include color-coded highlights and smooth row/cell transitions using `TransformFromCopy`, `FadeIn`, `SurroundingRectangle`, etc.
 
 ## 📺 Animation Guide
 
@@ -43,5 +42,6 @@ For the last two semesters I have been an **Undergraduate Student Instructor for
 
 ## 🔧 To be Implemented
 - All remaining table fucntions from the `datascience` library
+- Interactive UI for creating animations.
 - Support for DataFrame animations using the `pandas` library
 - Animation Demo
