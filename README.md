@@ -1,4 +1,3 @@
-# Data-Table-Visualizer
 # Data Science Table Animation Visualizer 📊
 
 This project is a **Manim-powered animation program** for visualizing common **table transformations**, covered in UC Berkeley's Introductory Data Science course, Data 8. It was built to generate short, animated clips that help students intuitively understand how generalized data science operations such as filtering, grouping, sorting, and selecting are carried out row by row and column by column.
