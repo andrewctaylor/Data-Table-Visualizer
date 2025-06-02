@@ -2,6 +2,9 @@
 
 This project is a **Manim-powered animation program** for visualizing common **table transformations**, covered in UC Berkeley's Introductory Data Science course, Data 8. It was built to generate short, animated clips that help students intuitively understand how generalized data science operations such as filtering, grouping, sorting, and selecting are carried out row by row and column by column.
 
+## YouTube Demo
+Check out some of the currently supported animations created using this tool on YouTube! -> https://www.youtube.com/playlist?list=PL6EoNR2zLle9yqCGA9fecoFuYJ5fjvB1X
+
 ## 🚀 Features
 
 - Animates **row-level operations** such as filtering (`where`), reordering (`sort`), and grouping (`group`).
@@ -44,4 +47,3 @@ For the last two semesters I have been an **Undergraduate Student Instructor for
 - All remaining table fucntions from the `datascience` library
 - Interactive UI for creating animations.
 - Support for DataFrame animations using the `pandas` library
-- Animation Demo
